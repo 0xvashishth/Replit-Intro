@@ -7,7 +7,7 @@ function Diyas() {
     <div className="diya">
     </div>
     <div className="message">
-      <h2 style={{"font-size":"4rem", "color":"#f1c40f"}}>
+      <h2 style={{"fontSize":"4rem", "color":"#f1c40f"}}>
         Happy Diwali From Replit Reps
       </h2>
     </div>
