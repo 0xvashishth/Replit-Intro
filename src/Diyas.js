@@ -3,10 +3,10 @@ import './diyas.css';
 
 function Diyas() {
   return (
-    <div class="container">
-    <div class="diya">
+    <div className="container">
+    <div className="diya">
     </div>
-    <div class="message">
+    <div className="message">
       <h2 style={{"font-size":"4rem", "color":"#f1c40f"}}>
         Happy Diwali From Replit Reps
       </h2>
@@ -18,7 +18,7 @@ function Diyas() {
 
 function Diyas1() {
   return (
-    <div class="container">
+    <div className="container">
     Hapy Diwali from replit reps!
   </div>
   );
