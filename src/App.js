@@ -3,7 +3,6 @@ import {Diyas,Diyas1} from './Diyas.js';
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
 } from "react-router-dom";
 
 
